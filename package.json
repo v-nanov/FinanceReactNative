@@ -34,6 +34,7 @@
     "react-native": "0.34.1",
     "react-native-navbar": "^1.5.4",
     "react-native-router-flux": "^3.35.0",
+    "react-native-safari-view": "^1.2.0",
     "react-native-simple-store": "^1.1.0",
     "react-native-vector-icons": "^2.1.0",
     "rn-viewpager": "^1.1.3"
